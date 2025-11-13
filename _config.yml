@@ -11,10 +11,10 @@
 ############################
 
 # Name of website
-title: My website
+title: My Work as a Data Scientist
 
 # Your name to show in the footer
-author: Some Person
+author: Julia Bunescu
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,10 +22,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  My Work:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  My Publications: "https://deanattali.com"
 
 ################
 # --- Logo --- #
