@@ -1197,6 +1197,12 @@ pre {
   border-bottom: 2px solid var(--hover-col);
 }
 
+.project-link:hover,
+.project-link:focus {
+  color: var(--hover-col);
+  border-bottom: 2px solid var(--link-col);
+  outline: none;
+}
 .project-media--thyroid {
   background-image: linear-gradient(135deg, rgba(255, 118, 195, 0.35), rgba(9, 11, 18, 0.75));
 }
