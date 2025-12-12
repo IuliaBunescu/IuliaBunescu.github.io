@@ -23,7 +23,7 @@ author: Julia Bunescu
 navbar-links:
   About Me: "aboutme"
   CV: "cv"
-  My work:
+  My Work:
     - Data Science Projects: "data-science-projects"
   Publications: 
     - Data Science Papers: "data-science-papers"
