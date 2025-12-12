@@ -1252,7 +1252,7 @@ pre {
   text-decoration: none;
 }
 
-/* Publication grid reusing project card visuals */
+/* Publication grid with independent styles inspired by project card visuals */
 .pub-grid {
   display: grid;
   gap: 1.5rem;
