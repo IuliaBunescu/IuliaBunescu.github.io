@@ -14,7 +14,7 @@ subtitle: Translating biotech trends for broader audiences
 		<header class="publication-card__header">
 			<span class="publication-card__label">Feature · 2020</span>
 			<h2 class="publication-card__title">
-				<a href="https://medium.com/swlh/6-directions-of-the-biotech-industry-e3bc6dcfeb21" target="_blank" rel="noopener">
+				<a href="https://medium.com/swlh/6-directions-of-the-biotech-industry-e3bc6dcfeb21" target="_blank" rel="noopener noreferrer">
 					6 Directions of the Biotech Industry
 				</a>
 			</h2>
@@ -29,7 +29,7 @@ subtitle: Translating biotech trends for broader audiences
 			<li>Links technical breakthroughs to patient impact narratives.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://medium.com/swlh/6-directions-of-the-biotech-industry-e3bc6dcfeb21" target="_blank" rel="noopener">Read on Medium</a>
+			<a class="publication-card__link" href="https://medium.com/swlh/6-directions-of-the-biotech-industry-e3bc6dcfeb21" target="_blank" rel="noopener noreferrer">Read on Medium</a>
 		</p>
 	</article>
 
@@ -37,7 +37,7 @@ subtitle: Translating biotech trends for broader audiences
 		<header class="publication-card__header">
 			<span class="publication-card__label">Linnify Insights · 2020</span>
 			<h2 class="publication-card__title">
-				<a href="https://medium.com/@linnify/it-all-comes-to-the-brain-a00dff98bd93" target="_blank" rel="noopener">
+				<a href="https://medium.com/@linnify/it-all-comes-to-the-brain-a00dff98bd93" target="_blank" rel="noopener noreferrer">
 					It All Comes to the Brain
 				</a>
 			</h2>
@@ -52,7 +52,7 @@ subtitle: Translating biotech trends for broader audiences
 			<li>Discusses ethical design considerations around cognitive data.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://medium.com/@linnify/it-all-comes-to-the-brain-a00dff98bd93" target="_blank" rel="noopener">Read on Medium</a>
+			<a class="publication-card__link" href="https://medium.com/@linnify/it-all-comes-to-the-brain-a00dff98bd93" target="_blank" rel="noopener noreferrer">Read on Medium</a>
 		</p>
 	</article>
 
@@ -60,7 +60,7 @@ subtitle: Translating biotech trends for broader audiences
 		<header class="publication-card__header">
 			<span class="publication-card__label">Linnify Insights · 2020</span>
 			<h2 class="publication-card__title">
-				<a href="https://medium.com/@linnify/why-did-the-chicken-cross-the-street-1b11dd9c501b" target="_blank" rel="noopener">
+				<a href="https://medium.com/@linnify/why-did-the-chicken-cross-the-street-1b11dd9c501b" target="_blank" rel="noopener noreferrer">
 					Why Did the Chicken Cross the Street?
 				</a>
 			</h2>
@@ -75,7 +75,7 @@ subtitle: Translating biotech trends for broader audiences
 			<li>Invites cross-functional teams to consider regulatory pathways early.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://medium.com/@linnify/why-did-the-chicken-cross-the-street-1b11dd9c501b" target="_blank" rel="noopener">Read on Medium</a>
+			<a class="publication-card__link" href="https://medium.com/@linnify/why-did-the-chicken-cross-the-street-1b11dd9c501b" target="_blank" rel="noopener noreferrer">Read on Medium</a>
 		</p>
 	</article>
 </div>

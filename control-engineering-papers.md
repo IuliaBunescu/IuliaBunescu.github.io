@@ -14,7 +14,7 @@ subtitle: Fractional-order control research highlights
 		<header class="publication-card__header">
 			<span class="publication-card__label">Journal Article · 2023</span>
 			<h2 class="publication-card__title">
-				<a href="https://doi.org/10.3390/math11051097" target="_blank" rel="noopener">
+				<a href="https://doi.org/10.3390/math11051097" target="_blank" rel="noopener noreferrer">
 					A Novel Toolbox for Automatic Design of Fractional Order PI Controllers Based on Automatic System Identification from Step Response Data
 				</a>
 			</h2>
@@ -29,8 +29,8 @@ subtitle: Fractional-order control research highlights
 			<li>Validates the discrete controller on a vertical take-off and landing platform with repeatable tracking performance.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://www.mdpi.com/2227-7390/11/5/1097/pdf" target="_blank" rel="noopener">Download the PDF</a>
-			<a class="publication-card__link" href="https://www.mdpi.com/2227-7390/11/5/1097" target="_blank" rel="noopener">Read on MDPI</a>
+			<a class="publication-card__link" href="https://www.mdpi.com/2227-7390/11/5/1097/pdf" target="_blank" rel="noopener noreferrer">Download the PDF</a>
+			<a class="publication-card__link" href="https://www.mdpi.com/2227-7390/11/5/1097" target="_blank" rel="noopener noreferrer">Read on MDPI</a>
 		</p>
 	</article>
 
@@ -38,7 +38,7 @@ subtitle: Fractional-order control research highlights
 		<header class="publication-card__header">
 			<span class="publication-card__label publication-card__label--conference">Conference Short Paper · 2022</span>
 			<h2 class="publication-card__title">
-				<a href="https://www.researchgate.net/publication/372340010_Automatic_System_Identification_and_Fractional_Order_Controller_Design_from_Step_Response_Data" target="_blank" rel="noopener">
+				<a href="https://www.researchgate.net/publication/372340010_Automatic_System_Identification_and_Fractional_Order_Controller_Design_from_Step_Response_Data" target="_blank" rel="noopener noreferrer">
 					Automatic System Identification and Fractional Order Controller Design from Step Response Data
 				</a>
 			</h2>
@@ -53,7 +53,7 @@ subtitle: Fractional-order control research highlights
 			<li>Clarifies implementation trade-offs for practitioners with limited fractional calculus background.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://www.researchgate.net/publication/372340010_Automatic_System_Identification_and_Fractional_Order_Controller_Design_from_Step_Response_Data" target="_blank" rel="noopener">View the abstract</a>
+			<a class="publication-card__link" href="https://www.researchgate.net/publication/372340010_Automatic_System_Identification_and_Fractional_Order_Controller_Design_from_Step_Response_Data" target="_blank" rel="noopener noreferrer">View the abstract</a>
 		</p>
 	</article>
 </div>
