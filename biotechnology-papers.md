@@ -92,4 +92,3 @@ subtitle: Translating biotech trends for broader audiences
 	</article>
 </div>
 
-<p class="publication-note">More biotech storytelling projects from the Linnify collaboration will be added as they are re-published.</p>
