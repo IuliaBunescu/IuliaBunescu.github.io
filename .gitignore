@@ -11,3 +11,10 @@ ehthumbs.db
 Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
+
+# local build artifacts
+.bundle/
+vendor/
+.jekyll-cache/
+.jekyll-metadata
+commands

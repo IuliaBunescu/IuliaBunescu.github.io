@@ -7,7 +7,17 @@ footer.footer-min {
   bottom: 0;
   width: 100%;
   padding: 0.1875rem;
-  background-color: #f5f5f5;
-  border-top: 1px solid #eeeeee;
+  background-color: var(--footer-col);
+  border-top: 1px solid var(--navbar-border-col);
+  color: var(--footer-text-col);
   text-align: center;
+}
+
+footer.footer-min a {
+  color: var(--footer-link-col);
+}
+
+footer.footer-min a:hover,
+footer.footer-min a:focus {
+  color: var(--footer-hover-col);
 }
