@@ -21,13 +21,13 @@ layout: null
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  --mid-col: #808080;
+  --mid-col: #9AA1C2;
 }
 
 /* --- General --- */
 
 html {
-  font-size: 100%
+  font-size: 100%;
 }
 
 body {
@@ -87,7 +87,8 @@ blockquote p:first-child {
   margin-top: 0;
 }
 .jumbotron {
-  background: #EEE;
+  background: linear-gradient(135deg, #1F2338, #2A1B2F);
+  color: var(--text-col);
 }
 hr.small {
   max-width: 6.25rem;
