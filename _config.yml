@@ -26,9 +26,9 @@ navbar-links:
   My work:
     - Data Science Projects: "data-science-projects"
   Publications: 
-   - Data Science Papers: "data-science-papers"
-   - Control Engineering Papers: "control-engineering-papers"
-   - Biotechnology Medium Articles: "biotechnology-papers"
+    - Data Science Papers: "data-science-papers"
+    - Control Engineering Papers: "control-engineering-papers"
+    - Biotechnology Medium Articles: "biotechnology-papers"
 
 ################
 # --- Logo --- #
