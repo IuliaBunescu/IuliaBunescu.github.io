@@ -9,8 +9,10 @@ subtitle: Translating biotech trends for broader audiences
 	During my part-time undergraduate role with Linnify I unpacked biotech innovation for non-specialist readers. These Medium features highlight the storytelling approach I brought to complex health-tech topics.
 </p>
 
-<div class="publication-list">
-	<article class="publication-card">
+<div class="pub-grid">
+	<article class="pub-card">
+		<div class="pub-media"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*y95Hl4PGDYcfWCzOy4vaWQ.jpeg" alt="6 Directions of the Biotech Industry cover"
+			onerror="this.onerror=null;this.src='{{ '/assets/img/biotech-fallback.svg' | relative_url }}';" /></div>
 		<header class="publication-card__header">
 			<span class="publication-card__label">Feature · 2020</span>
 			<h2 class="publication-card__title">
@@ -20,7 +22,8 @@ subtitle: Translating biotech trends for broader audiences
 			</h2>
 			<p class="publication-card__meta">Published in The Startup · Medium</p>
 		</header>
-		<p class="publication-card__summary">
+		<div class="pub-body">
+		<p class="pub-desc">
 			A roadmap through six trends steering biotech—from precision medicine and synthetic biology to AI-enabled discovery—written to help founders and operators prioritize where to build.
 		</p>
 		<ul class="publication-card__highlights">
@@ -29,11 +32,14 @@ subtitle: Translating biotech trends for broader audiences
 			<li>Links technical breakthroughs to patient impact narratives.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://medium.com/swlh/6-directions-of-the-biotech-industry-e3bc6dcfeb21" target="_blank" rel="noopener noreferrer">Read on Medium</a>
+			<a class="pub-link" href="https://medium.com/swlh/6-directions-of-the-biotech-industry-e3bc6dcfeb21" target="_blank" rel="noopener noreferrer">Read on Medium</a>
 		</p>
+		</div>
 	</article>
 
-	<article class="publication-card">
+	<article class="pub-card">
+		<div class="pub-media"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*oaRCxz8QZoGRPufpgyPnEw.png" alt="It All Comes to the Brain cover"
+			onerror="this.onerror=null;this.src='{{ '/assets/img/biotech-fallback.svg' | relative_url }}';" /></div>
 		<header class="publication-card__header">
 			<span class="publication-card__label">Linnify Insights · 2020</span>
 			<h2 class="publication-card__title">
@@ -43,7 +49,8 @@ subtitle: Translating biotech trends for broader audiences
 			</h2>
 			<p class="publication-card__meta">Linnify on Medium</p>
 		</header>
-		<p class="publication-card__summary">
+		<div class="pub-body">
+		<p class="pub-desc">
 			Explores the convergence of neuroscience, wearables, and data science—highlighting how neurotech ventures translate lab insights into everyday wellness products.
 		</p>
 		<ul class="publication-card__highlights">
@@ -52,11 +59,14 @@ subtitle: Translating biotech trends for broader audiences
 			<li>Discusses ethical design considerations around cognitive data.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://medium.com/@linnify/it-all-comes-to-the-brain-a00dff98bd93" target="_blank" rel="noopener noreferrer">Read on Medium</a>
+			<a class="pub-link" href="https://medium.com/@linnify/it-all-comes-to-the-brain-a00dff98bd93" target="_blank" rel="noopener noreferrer">Read on Medium</a>
 		</p>
+		</div>
 	</article>
 
-	<article class="publication-card">
+	<article class="pub-card">
+		<div class="pub-media"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Rhp7NAEJsifQ80nUbmCgMQ.png" alt="Why Did the Chicken Cross the Street cover"
+			onerror="this.onerror=null;this.src='{{ '/assets/img/biotech-fallback.svg' | relative_url }}';" /></div>
 		<header class="publication-card__header">
 			<span class="publication-card__label">Linnify Insights · 2020</span>
 			<h2 class="publication-card__title">
@@ -66,7 +76,8 @@ subtitle: Translating biotech trends for broader audiences
 			</h2>
 			<p class="publication-card__meta">Linnify on Medium</p>
 		</header>
-		<p class="publication-card__summary">
+		<div class="pub-body">
+		<p class="pub-desc">
 			An accessible primer on biotech-driven food innovation, spotlighting how cellular agriculture and alternative proteins reshape sustainability narratives.
 		</p>
 		<ul class="publication-card__highlights">
@@ -75,8 +86,9 @@ subtitle: Translating biotech trends for broader audiences
 			<li>Invites cross-functional teams to consider regulatory pathways early.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://medium.com/@linnify/why-did-the-chicken-cross-the-street-1b11dd9c501b" target="_blank" rel="noopener noreferrer">Read on Medium</a>
+			<a class="pub-link" href="https://medium.com/@linnify/why-did-the-chicken-cross-the-street-1b11dd9c501b" target="_blank" rel="noopener noreferrer">Read on Medium</a>
 		</p>
+		</div>
 	</article>
 </div>
 
