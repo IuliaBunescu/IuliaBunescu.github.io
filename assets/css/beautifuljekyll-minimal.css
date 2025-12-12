@@ -38,3 +38,40 @@ footer.footer-min a:hover,
 footer.footer-min a:focus {
   color: var(--footer-hover-col);
 }
+
+.cv-highlight {
+  color: var(--link-col);
+  font-weight: 700;
+}
+
+.cv-download {
+  margin: 2.5rem 0 0;
+}
+
+.cv-download--page {
+  margin: 0 0 2rem;
+}
+
+.cv-download__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--link-col);
+  color: var(--page-col);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.85rem 1.75rem;
+  border-radius: 999px;
+  box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.25);
+  transition: transform 180ms ease, box-shadow 180ms ease, background 180ms ease;
+  text-decoration: none;
+}
+
+.cv-download__btn:hover,
+.cv-download__btn:focus {
+  transform: translateY(-0.2rem);
+  box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.35);
+  background: var(--hover-col);
+  color: var(--page-col);
+}
