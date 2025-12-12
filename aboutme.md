@@ -21,5 +21,3 @@ Earlier, I studied Automation & Applied Informatics in Romania, completed the Vu
 - Sketching, reading speculative fiction, or diving into story-rich games.
 - Logging 13 official skydives toward a certification before the pandemic pressed pause.
 - Spent middle and high school competing on ballroom floors.
-
-Want to collaborate or chat about data, art, or games? [Let’s connect](mailto:bunescui@msu.edu)!
