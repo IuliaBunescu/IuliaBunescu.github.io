@@ -9,8 +9,9 @@ subtitle: Fractional-order control research highlights
 	Fractional-order control has been the core of my undergraduate thesis and early research. Below are the two pieces that capture the journey from prototype algorithms to an industry-ready toolbox.
 </p>
 
-<div class="publication-list">
-	<article class="publication-card">
+<div class="pub-grid">
+	<article class="pub-card">
+		<div class="pub-media" style="background-image: linear-gradient(135deg, rgba(100, 182, 255, 0.35), rgba(9, 11, 18, 0.75));"></div>
 		<header class="publication-card__header">
 			<span class="publication-card__label">Journal Article · 2023</span>
 			<h2 class="publication-card__title">
@@ -20,7 +21,8 @@ subtitle: Fractional-order control research highlights
 			</h2>
 			<p class="publication-card__meta">Mathematics (MDPI) · Volume 11, Issue 5 · Open access DOI</p>
 		</header>
-		<p class="publication-card__summary">
+		<div class="pub-body">
+		<p class="pub-desc">
 			Presents the AFOPI toolbox: an end-to-end workflow that identifies process models from raw step-response data, tunes fractional-order PI controllers, and delivers hardware-ready discrete implementations.
 		</p>
 		<ul class="publication-card__highlights">
@@ -29,12 +31,14 @@ subtitle: Fractional-order control research highlights
 			<li>Validates the discrete controller on a vertical take-off and landing platform with repeatable tracking performance.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://www.mdpi.com/2227-7390/11/5/1097/pdf" target="_blank" rel="noopener noreferrer">Download the PDF</a>
-			<a class="publication-card__link" href="https://www.mdpi.com/2227-7390/11/5/1097" target="_blank" rel="noopener noreferrer">Read on MDPI</a>
+			<a class="pub-link" href="https://www.mdpi.com/2227-7390/11/5/1097/pdf" target="_blank" rel="noopener noreferrer">Download the PDF</a>
+			<a class="pub-link" href="https://www.mdpi.com/2227-7390/11/5/1097" target="_blank" rel="noopener noreferrer">Read on MDPI</a>
 		</p>
+		</div>
 	</article>
 
-	<article class="publication-card">
+	<article class="pub-card">
+		<div class="pub-media" style="background-image: linear-gradient(135deg, rgba(255, 118, 195, 0.35), rgba(9, 11, 18, 0.75));"></div>
 		<header class="publication-card__header">
 			<span class="publication-card__label publication-card__label--conference">Conference Short Paper · 2022</span>
 			<h2 class="publication-card__title">
@@ -44,7 +48,8 @@ subtitle: Fractional-order control research highlights
 			</h2>
 			<p class="publication-card__meta">Conference short paper introducing the AFOPI concept and early validation</p>
 		</header>
-		<p class="publication-card__summary">
+		<div class="pub-body">
+		<p class="pub-desc">
 			Distills the foundational ideas behind AFOPI into a concise, conference-ready format—bridging undergraduate research with applied industrial control problems.
 		</p>
 		<ul class="publication-card__highlights">
@@ -53,8 +58,9 @@ subtitle: Fractional-order control research highlights
 			<li>Clarifies implementation trade-offs for practitioners with limited fractional calculus background.</li>
 		</ul>
 		<p class="publication-card__links">
-			<a class="publication-card__link" href="https://www.researchgate.net/publication/372340010_Automatic_System_Identification_and_Fractional_Order_Controller_Design_from_Step_Response_Data" target="_blank" rel="noopener noreferrer">View the abstract</a>
+			<a class="pub-link" href="https://www.researchgate.net/publication/372340010_Automatic_System_Identification_and_Fractional_Order_Controller_Design_from_Step_Response_Data" target="_blank" rel="noopener noreferrer">View the abstract</a>
 		</p>
+		</div>
 	</article>
 </div>
 
