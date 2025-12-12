@@ -127,7 +127,7 @@
 .publication-card__meta {
   margin: 0;
   font-size: 0.95rem;
-  color: rgba(64, 64, 64, 0.75);
+  color: #e0e0e0;
 }
 
 .publication-card__summary {
