@@ -6,7 +6,7 @@ subtitle: Snapshot of my professional background
 ---
 
 <div class="cv-download cv-download--page">
-  <a class="cv-download__btn" href="{{ '/Julia-Bunescu.pdf' | relative_url }}" target="_blank" rel="noopener">
+  <a class="cv-download__btn" href="{{ '/Julia-Bunescu.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Download Curriculum Vitae as PDF">
     Download CV (PDF)
   </a>
 </div>
