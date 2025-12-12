@@ -45,7 +45,7 @@ subtitle: Fractional-order control research highlights
 			<p class="publication-card__meta">Conference short paper introducing the AFOPI concept and early validation</p>
 		</header>
 		<p class="publication-card__summary">
-			Distils the foundational ideas behind AFOPI into a concise, conference-ready format—bridging undergraduate research with applied industrial control problems.
+			Distills the foundational ideas behind AFOPI into a concise, conference-ready format—bridging undergraduate research with applied industrial control problems.
 		</p>
 		<ul class="publication-card__highlights">
 			<li>Summarizes the automatic identification routine that removes manual tuning heuristics.</li>
