@@ -48,7 +48,7 @@ subtitle: Fractional-order control research highlights
 			Distils the foundational ideas behind AFOPI into a concise, conference-ready format—bridging undergraduate research with applied industrial control problems.
 		</p>
 		<ul class="publication-card__highlights">
-			<li>Summarises the automatic identification routine that removes manual tuning heuristics.</li>
+			<li>Summarizes the automatic identification routine that removes manual tuning heuristics.</li>
 			<li>Shares preliminary fractional-order controller experiments that informed the journal manuscript.</li>
 			<li>Clarifies implementation trade-offs for practitioners with limited fractional calculus background.</li>
 		</ul>
