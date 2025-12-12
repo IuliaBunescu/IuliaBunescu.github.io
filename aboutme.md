@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Data scientist, storyteller, curious human
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I’m Julia Bunescu, a Fulbright-funded Data Science master’s student at Michigan State University and former Grid Dynamics data scientist. I love turning complex data into clear stories, whether that’s a production dashboard, an LLM-powered prototype, or a quick experiment that sparks a new idea.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Earlier, I studied Automation & Applied Informatics in Romania, completed the Vulcanus in Japan program at Goldman Sachs Tokyo, and shipped firmware for medical devices—experiences that taught me to move fast, bridge cultures, and stay curious.
 
-What else do you need?
+### Currently
 
-### My story
+- Exploring human-centered AI projects with MSU’s Data Science cohort.
+- Prototyping with LLMs, Streamlit, and cloud-native pipelines.
+- Strengthening the mathematical foundations behind modern ML methods.
+- Investigating how ML and AI can drive real-world products and medical research.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Outside the Terminal
+
+- Planning travel adventures and shooting photos along the way.
+- Sketching, reading fiction, or diving into story-rich games.
+
+Want to collaborate or chat about data, art, or games? [Let’s connect](mailto:bunescui@msu.edu)!

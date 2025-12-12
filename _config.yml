@@ -11,7 +11,7 @@
 ############################
 
 # Name of website
-title: My Work as a Data Scientist
+title: Julia Bunescu
 
 # Your name to show in the footer
 author: Julia Bunescu
@@ -22,10 +22,13 @@ author: Julia Bunescu
 
 navbar-links:
   About Me: "aboutme"
-  My Work:
-    - Thyroid Data Analysis Dashboard: "https://juliab-thyroid-data-analysis.streamlit.app/"
-    - Movie Recommendation Tool: "https://juliab-movie-recommendation-tool.streamlit.app/"
   CV: "cv"
+  My Work:
+    - Data Science Projects: "data-science-projects"
+  Publications: 
+    - Data Science Papers: "data-science-papers"
+    - Control Engineering Papers: "control-engineering-papers"
+    - Biotechnology Medium Articles: "biotechnology-papers"
 
 ################
 # --- Logo --- #
@@ -136,10 +139,10 @@ page-col: "#05060A"
 text-col: "#F7F7FC"
 link-col: "#64B6FF"
 hover-col: "#FF5EAC"
-navbar-col: "#090B12"
+navbar-col: "#121624"
 navbar-text-col: "#F9FAFF"
 navbar-border-col: "#191C28"
-footer-col: "#090B12"
+footer-col: "#121624"
 footer-text-col: "#B9BED3"
 footer-link-col: "#FF76C3"
 footer-hover-col: "#FF5EAC"
@@ -295,4 +298,8 @@ exclude:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
