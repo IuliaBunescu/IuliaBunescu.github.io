@@ -25,7 +25,7 @@ navbar-links:
   My Work:
     - Thyroid Data Analysis Dashboard: "https://juliab-thyroid-data-analysis.streamlit.app/"
     - Movie Recommendation Tool: "https://juliab-movie-recommendation-tool.streamlit.app/"
-  CV: 
+  CV: "cv"
 
 ################
 # --- Logo --- #
