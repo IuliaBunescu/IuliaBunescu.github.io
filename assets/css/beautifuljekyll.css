@@ -3,7 +3,7 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
-@import url("beautifuljekyll-shared.css");
+@import url("/assets/css/beautifuljekyll-shared.css");
 
 :root {
   /* config file CSS variables */
