@@ -5,6 +5,12 @@ permalink: /cv/
 subtitle: Snapshot of my professional background
 ---
 
+<div class="cv-download cv-download--page">
+  <a class="cv-download__btn" href="{{ '/Julia-Bunescu.pdf' | relative_url }}" target="_blank" rel="noopener" aria-label="Download Curriculum Vitae as PDF">
+    Download CV (PDF)
+  </a>
+</div>
+
 ## Summary
 
 - Fulbright-funded Data Science master's student at Michigan State University with prior systems engineering training.
@@ -32,11 +38,11 @@ subtitle: Snapshot of my professional background
 ## Education
 
 - **Michigan State University**, East Lansing, MI — Master of Science in Data Science *(May 2027)*  
-	*Fulbright Foreign Student Award · Graduate School Tuition Award*
+	*<a class="cv-highlight" href="https://foreign.fulbrightonline.org/" target="_blank" rel="noopener">Fulbright Foreign Student Award</a> · <span class="cv-highlight">Graduate School Tuition Award</span>*
 - **Babeș-Bolyai University**, Cluj-Napoca, Romania — Data Science for Industry and Society MA *(On hold)*  
-	*Merit Scholarship 2024–2025*
+	*<span class="cv-highlight">Merit Scholarship 2024–2025</span>*
 - **Technical University of Cluj-Napoca**, Cluj-Napoca, Romania — B.Eng. Automation & Applied Informatics (Systems Engineering) *(Jul 2021)*  
-	*Vulcanus in Japan Scholarship 2021–2022 · Merit Scholarship 2017–2021*
+	*<a class="cv-highlight" href="https://www.eu-japan.eu/events/vulcanus-japan" target="_blank" rel="noopener">Vulcanus in Japan Scholarship 2021–2022</a> · <span class="cv-highlight">Merit Scholarship 2017–2021</span>*
 
 ## Technical Skills
 
