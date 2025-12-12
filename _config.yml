@@ -52,7 +52,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "bunescui@msu.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: IuliaBunescu
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
@@ -132,17 +132,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#0F111A"
-text-col: "#F3F4FF"
-link-col: "#66B8FF"
-hover-col: "#FF4D93"
-navbar-col: "#171A2C"
-navbar-text-col: "#F8F9FF"
-navbar-border-col: "#22253B"
-footer-col: "#171A2C"
-footer-text-col: "#AEB3D1"
-footer-link-col: "#66B8FF"
-footer-hover-col: "#FF4D93"
+page-col: "#05060A"
+text-col: "#F7F7FC"
+link-col: "#64B6FF"
+hover-col: "#FF5EAC"
+navbar-col: "#090B12"
+navbar-text-col: "#F9FAFF"
+navbar-border-col: "#191C28"
+footer-col: "#090B12"
+footer-text-col: "#B9BED3"
+footer-link-col: "#FF76C3"
+footer-hover-col: "#FF5EAC"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -152,7 +152,7 @@ footer-hover-col: "#FF4D93"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-mobile-theme-col: "#171A2C"
+mobile-theme-col: "#090B12"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
