@@ -32,7 +32,7 @@ subtitle: Snapshot of my professional background
 ## Education
 
 - **Michigan State University**, East Lansing, MI — Master of Science in Data Science *(May 2027)*  
-	*Fulbright Foreign Student Award*
+	*Fulbright Foreign Student Award · Graduate School Tuition Award*
 - **Babeș-Bolyai University**, Cluj-Napoca, Romania — Data Science for Industry and Society MA *(On hold)*  
 	*Merit Scholarship 2024–2025*
 - **Technical University of Cluj-Napoca**, Cluj-Napoca, Romania — B.Eng. Automation & Applied Informatics (Systems Engineering) *(Jul 2021)*  
