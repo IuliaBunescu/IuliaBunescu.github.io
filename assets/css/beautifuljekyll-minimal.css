@@ -1,6 +1,8 @@
 ---
 ---
 
+@import url("/assets/css/beautifuljekyll-shared.css");
+
 :root {
   --page-col: {{ site.page-col | default: "#FFFFFF" }};
   --text-col: {{ site.text-col | default: "#404040" }};
@@ -50,6 +52,8 @@ footer.footer-min a:focus {
 
 .cv-download--page {
   margin: 0 0 2rem;
+  display: flex;
+  justify-content: center;
 }
 
 .cv-download__btn {
@@ -74,4 +78,5 @@ footer.footer-min a:focus {
   box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.35);
   background: var(--hover-col);
   color: var(--page-col);
+  text-decoration: none;
 }

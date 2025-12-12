@@ -3,6 +3,7 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
+@import url("/assets/css/beautifuljekyll-shared.css");
 
 :root {
   /* config file CSS variables */
@@ -1222,6 +1223,8 @@ pre {
 
 .cv-download--page {
   margin: 0 0 2rem;
+  display: flex;
+  justify-content: center;
 }
 
 .cv-download__btn {
@@ -1246,4 +1249,5 @@ pre {
   box-shadow: 0 1rem 2.5rem rgba(0, 0, 0, 0.35);
   background: var(--hover-col);
   color: var(--page-col);
+  text-decoration: none;
 }

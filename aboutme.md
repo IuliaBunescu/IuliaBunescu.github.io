@@ -4,22 +4,20 @@ title: About Me
 subtitle: Data scientist, storyteller, curious human
 ---
 
-Hi! I’m Julia Bunescu, a Fulbright-funded Data Science master’s student at Michigan State University and former Grid Dynamics data scientist. I love turning complex data into clear stories, whether that’s a production dashboard, an LLM-powered prototype, or a quick experiment that sparks a new idea.
+Hi! I’m Julia Bunescu, a <span class="about-highlight">Fulbright-funded Data Science master’s student at Michigan State University</span> and former <span class="about-highlight">Grid Dynamics data scientist</span>. I love turning complex data into clear stories, whether that’s a production dashboard, an LLM-powered prototype, or a quick experiment that sparks a new idea.
 
-Earlier, I studied Automation & Applied Informatics in Romania, completed the Vulcanus in Japan program at Goldman Sachs Tokyo, and shipped firmware for medical devices—experiences that taught me to move fast, bridge cultures, and stay curious.
+Earlier, I studied <span class="about-highlight">Automation & Applied Informatics</span> in Romania, completed the <span class="about-highlight">Vulcanus in Japan program at Goldman Sachs Tokyo</span>, and shipped firmware for <span class="about-highlight">medical devices</span>—experiences that taught me to move fast, bridge cultures, and stay curious.
 
 ### Currently
 
 - Exploring human-centered AI projects with MSU’s Data Science cohort.
 - Prototyping with LLMs, Streamlit, and cloud-native pipelines.
-- Strengthening the mathematical foundations behind modern ML methods.
-- Investigating how ML and AI can drive real-world products and medical research.
+- Strengthening the mathematical foundations behind <span class="about-highlight">modern ML methods</span>.
+- Investigating how <span class="about-highlight">ML and AI</span> can drive real-world products and medical research.
 
 ### Outside the Terminal
 
 - Planning travel adventures and shooting photos along the way.
 - Sketching, reading speculative fiction, or diving into story-rich games.
-- Logging 13 official skydives toward a certification before the pandemic pressed pause.
-- Spent middle and high school competing on ballroom floors.
-
-Want to collaborate or chat about data, art, or games? [Let’s connect](mailto:bunescui@msu.edu)!
+- Logging <span class="about-highlight">13 official skydives</span> toward a certification before the pandemic pressed pause.
+- Spent middle and high school competing on <span class="about-highlight">ballroom floors</span>.
