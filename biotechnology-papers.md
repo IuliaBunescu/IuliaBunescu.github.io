@@ -58,7 +58,7 @@ subtitle: Translating biotech trends for broader audiences
 
 	<article class="publication-card">
 		<header class="publication-card__header">
-			<span class="publication-card__label publication-card__label--conference">Linnify Insights · 2020</span>
+			<span class="publication-card__label">Linnify Insights · 2020</span>
 			<h2 class="publication-card__title">
 				<a href="https://medium.com/@linnify/why-did-the-chicken-cross-the-street-1b11dd9c501b" target="_blank" rel="noopener">
 					Why Did the Chicken Cross the Street?
