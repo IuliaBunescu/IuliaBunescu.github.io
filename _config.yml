@@ -29,6 +29,8 @@ navbar-links:
     - Data Science Papers: "data-science-papers"
     - Control Engineering Papers: "control-engineering-papers"
     - Biotechnology Medium Articles: "biotechnology-papers"
+  Certifications: "certifications"
+  Academic Record: "academic-record"
 
 ################
 # --- Logo --- #
