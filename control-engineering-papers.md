@@ -25,7 +25,7 @@ subtitle: Fractional-order control research highlights
 		</p>
 		<ul class="publication-card__highlights">
 			<li>Automates SOPDT model estimation from noisy experimental measurements.</li>
-			<li>Maximises robustness by scanning the fractional order that yields the highest gain margin.</li>
+			<li>Maximizes robustness by scanning the fractional order that yields the highest gain margin.</li>
 			<li>Validates the discrete controller on a vertical take-off and landing platform with repeatable tracking performance.</li>
 		</ul>
 		<p class="publication-card__links">
