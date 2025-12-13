@@ -3,6 +3,7 @@ layout: page
 title: Control Engineering Papers
 permalink: /control-engineering-papers/
 subtitle: Fractional-order control research highlights
+wide-content: True
 ---
 
 <p class="publication-intro">
