@@ -3,6 +3,7 @@ layout: page
 title: Biotechnology Articles
 permalink: /biotechnology-papers/
 subtitle: Translating biotech trends for broader audiences
+full-width: True
 ---
 
 <p class="publication-intro">
