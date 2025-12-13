@@ -6,9 +6,9 @@ subtitle: Fractional-order control research highlights
 wide-content: True
 ---
 
-<p class="publication-intro">
-	Fractional-order control has been the core of my undergraduate thesis and early research. Below are the two pieces that capture the journey from prototype algorithms to an industry-ready toolbox.
-</p>
+<!-- <p class="publication-intro"> -->
+Fractional-order control has been the core of my undergraduate thesis and early research. Below are the two pieces that capture the journey from prototype algorithms to an industry-ready toolbox.
+<!-- </p> -->
 
 <div class="pub-grid">
 	<article class="pub-card">

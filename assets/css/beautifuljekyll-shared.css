@@ -58,13 +58,13 @@
   text-decoration: none;
 }
 
-.publication-intro {
+/* .publication-intro {
   max-width: 48rem;
   margin: 0 auto 3rem;
   font-size: 1.05rem;
   line-height: 1.8;
   text-align: left;
-}
+} */
 
 .publication-list {
   display: grid;

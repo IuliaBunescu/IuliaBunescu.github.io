@@ -6,9 +6,9 @@ subtitle: Translating biotech trends for broader audiences
 wide-content: True
 ---
 
-<p class="publication-intro">
-	During my part-time undergraduate role with Linnify I unpacked biotech innovation for non-specialist readers. These Medium features highlight the storytelling approach I brought to complex health-tech topics.
-</p>
+<!-- <p class="publication-intro"> -->
+During my part-time undergraduate role with Linnify I unpacked biotech innovation for non-specialist readers. These Medium features highlight the storytelling approach I brought to complex health-tech topics.
+<!-- </p> -->
 
 <div class="pub-grid">
 	<article class="pub-card">
