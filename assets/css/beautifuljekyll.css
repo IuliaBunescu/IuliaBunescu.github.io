@@ -1336,27 +1336,6 @@ pre {
 
 .cert-card:hover,
 .cert-card:focus-within {
-  transform: translateY(-0.35rem);
+  transform: translateY(-0.45rem);
   box-shadow: 0 1.5rem 3.5rem rgba(0, 0, 0, 0.35);
-}
-
-.cert-card h3 {
-  margin-top: 0;
-  color: var(--text-col, #ffffff);
-}
-.cert-card a {
-  color: var(--accent-col, #4eaaff);
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.cert-card a:hover,
-.cert-card a:focus {
-  color: var(--hover-col);
-  border-color: var(--hover-col);
-}
-
-.cert-card h3:hover,
-.cert-card h3:focus {
-  color: var(--hover-col);
 }
