@@ -37,7 +37,6 @@ During my part-time undergraduate role with Linnify I unpacked biotech innovatio
 		</p>
 		</div>
 	</article>
-
 	<article class="pub-card">
 		<div class="pub-media"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*oaRCxz8QZoGRPufpgyPnEw.png" alt="It All Comes to the Brain cover"
 			onerror="this.onerror=null;this.src='{{ '/assets/img/biotech-fallback.svg' | relative_url }}';" /></div>
@@ -64,7 +63,6 @@ During my part-time undergraduate role with Linnify I unpacked biotech innovatio
 		</p>
 		</div>
 	</article>
-
 	<article class="pub-card">
 		<div class="pub-media"><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Rhp7NAEJsifQ80nUbmCgMQ.png" alt="Why Did the Chicken Cross the Street cover"
 			onerror="this.onerror=null;this.src='{{ '/assets/img/biotech-fallback.svg' | relative_url }}';" /></div>
