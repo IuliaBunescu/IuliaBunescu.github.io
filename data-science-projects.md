@@ -5,9 +5,9 @@ permalink: /data-science-projects/
 subtitle: Interactive analytics and intelligent apps
 ---
 
-Explore a few recent projects that blend human-centered design with practical machine learning. Each tile links to a live Streamlit app.
+Explore a few recent projects that blend user-centered design with practical machine learning. Each tile links to a live Streamlit app.
 
-Note: This page is work in progress.
+*Note: This page is work in progress.*
 
 <div class="project-grid">
   <article class="project-card">

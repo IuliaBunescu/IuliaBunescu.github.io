@@ -10,7 +10,7 @@ Earlier, I studied <span class="about-highlight">Automation & Applied Informatic
 
 ### Currently
 
-- Exploring human-centered AI projects with MSU’s Data Science cohort.
+- Collaborating on AI initiatives with MSU’s Data Science cohort.
 - Prototyping with LLMs, Streamlit, and cloud-native pipelines.
 - Strengthening the mathematical foundations behind <span class="about-highlight">modern ML methods</span>.
 - Investigating how <span class="about-highlight">ML and AI</span> can drive real-world products and medical research.

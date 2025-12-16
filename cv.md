@@ -15,7 +15,7 @@ subtitle: Snapshot of my professional background
 
 - Fulbright-funded Data Science master's student at Michigan State University with prior systems engineering training.
 - Experience delivering data-driven products for global audiences, from big-data audience expansion to multi-modal LLM demos.
-- Passionate about human-centered analytics, storytelling dashboards, and practical AI adoption.
+- Passionate about impact-driven analytics, storytelling dashboards, and practical AI adoption.
 
 ## Experience
 
