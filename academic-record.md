@@ -16,6 +16,9 @@ subtitle: Academic Performance & Relevant Coursework
       <li>CSE 840: Computational Foundations in Artificial Intelligence</li>
       <li>STT 810: Mathematical Statistics for Data Scientists</li>
       <li>CMSE 830: Foundations of Data Scientist</li>
+      <li>CSE 802: Pattern Recognition (ongoing)</li>
+      <li>CSE 881: Data Mining (ongoing)</li>
+      <li>STT 811: Applied Statistical Modelling for Data Science (ongoing)</li>
     </ul>
   </div>
   <div class="academic-record-card">
@@ -25,13 +28,11 @@ subtitle: Academic Performance & Relevant Coursework
     <p><strong>GPA:</strong> </p>
     <p><strong>Relevant Courses:</strong></p>
     <ul>
-        <li>Statistical Data Analysis</li>
-        <li>Big Data Technologies</li>
-        <li>Data Mining</li>
-        <li>Data Visualization</li>
-        <li>Programming for Data Science (Python)</li>
-        <li>Database Management</li>
-        <li>Applied Mathematics for Data Science</li>
+        <li>Data Collection & Modelling</li>
+        <li>Programming Toolbox (React-Vite, TypeScript, HTML, CSS)</li>
+        <li>Computational Thinking</li>
+        <li>Intelligent Modeling</li>
+        <li>Interaction Design</li>    
     </ul>
   </div>
   <div class="academic-record-card">
@@ -41,7 +42,6 @@ subtitle: Academic Performance & Relevant Coursework
     <p><strong>GPA:</strong> 9.38/10 (≈ 3.75/4.0)</p>
     <p><strong>Relevant Courses:</strong></p>
     <ul>
-    <li>Probability and Statistics</li>
         <li>Numerical Methods</li>
         <li>Linear Algebra and Calculus</li>
         <li>Data Structures and Algorithms</li>
