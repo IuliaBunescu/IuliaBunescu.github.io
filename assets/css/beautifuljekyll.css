@@ -1353,7 +1353,7 @@ pre {
 }
 .academic-record-card {
   border: 1px solid var(--mid-col);
-  border-radius: 8px;
+  border-radius: 1rem;
   padding: 20px;
   background-color: var(--navbar-col);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
