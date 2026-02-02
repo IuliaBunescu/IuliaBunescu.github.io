@@ -3,6 +3,12 @@
 
 @import url("/assets/css/beautifuljekyll-shared.css");
 
+html {
+  zoom: 0.8;
+  -moz-transform: scale(0.8);
+  -moz-transform-origin: 0 0;
+}
+
 :root {
   --page-col: {{ site.page-col | default: "#FFFFFF" }};
   --text-col: {{ site.text-col | default: "#404040" }};
