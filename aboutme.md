@@ -9,8 +9,7 @@ Hi! I’m Julia Bunescu, a <span class="about-highlight">Fulbright-funded Data S
 Previously, I studied <span class="about-highlight">Automation & Applied Informatics</span> in Romania, completed the <span class="about-highlight"> Vulcanus in Japan program at Goldman Sachs Tokyo</span> as a full stack developer, shipped firmware for <span class="about-highlight">medical devices</span>, and explored and dived into dashboarding and prototyping with LLMs in ad technology and product development —experiences that taught me collaborate, adapt, and be creative.
 
 My international journey has thought me about the importance of community and kindness. This is why I volunteer, and why
-I joined the creation of the Fulbright Student Organization at MSU in my first year in the US. Now, I continue to 
-lead and grow this community as a Vice President.
+I joined the creation of the <span class="about-highlight">Fulbright Student Organization at MSU</span> in my first year in the US. Now, I continue to lead and grow this community as a <span class="about-highlight">Vice President</span>.
 
 ### Currently 
 
