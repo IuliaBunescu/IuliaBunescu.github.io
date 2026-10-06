@@ -19,7 +19,7 @@ I joined the creation of the <span class="about-highlight">Fulbright Student Org
 
 ### Outside the Terminal
 
-- Leading an international community for Fulbright students at Michigan State University.
+- Leading an international community for <span class="about-highlight">Fulbright students at Michigan State University</span>.
 - Planning travel adventures and shooting photos along the way.
 - Sketching, reading speculative fiction, or diving into story-rich games.
 - Logging <span class="about-highlight">13 official skydives</span> toward a certification before the pandemic pressed pause.
