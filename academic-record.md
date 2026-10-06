@@ -10,15 +10,18 @@ subtitle: Academic Performance & Relevant Coursework
     <h3>Michigan State University</h3>
     <p><strong>Program:</strong> Master of Science in Data Science</p>
     <p><strong>Duration:</strong> 2 years (ongoing)</p>
-    <p><strong>GPA:</strong> 3.83</p>
+    <p><strong>GPA:</strong> 3.916</p>
     <p><strong>Relevant Courses:</strong></p>
     <ul>
       <li>CSE 840: Computational Foundations in Artificial Intelligence</li>
       <li>STT 810: Mathematical Statistics for Data Scientists</li>
       <li>CMSE 830: Foundations of Data Scientist</li>
-      <li>CSE 802: Pattern Recognition (ongoing)</li>
-      <li>CSE 881: Data Mining (ongoing)</li>
-      <li>STT 811: Applied Statistical Modelling for Data Science (ongoing)</li>
+      <li>CSE 802: Pattern Recognition </li>
+      <li>CSE 881: Data Mining </li>
+      <li>STT 811: Applied Statistical Modelling for Data Science </li>
+      <li>CSE 803: Computer Vision (ongoing)</li>
+      <li>CMSE 831: Computational Optimization (ongoing) </li>
+      <li>CSE 848: Evolutionary Computation (ongoing)</li>
     </ul>
   </div>
   <div class="academic-record-card">

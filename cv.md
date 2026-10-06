@@ -53,7 +53,7 @@ subtitle: Snapshot of my professional background
 
 ## Leadership & Activities
 
-- Secretary, Fulbright Student Organisation at Michigan State University.
+- Vice President, Fulbright Student Organisation at Michigan State University.
 - Volunteer with NGOs supporting children with disabilities (occupational therapy and fundraising).
 - Competitive ballroom dancer for seven years.
 
